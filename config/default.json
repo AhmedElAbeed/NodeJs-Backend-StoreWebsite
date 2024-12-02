@@ -1,0 +1,5 @@
+{
+    "mongo_url": "mongodb://localhost:27017/AuthLogin",
+    "jwtSecret": "your_jwt_secret_here",
+    "tokenExpire": "1h"
+}
